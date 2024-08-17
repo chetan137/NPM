@@ -1,0 +1,23 @@
+{
+  "name": "unifi-payment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "razorpay": "^2.9.4",
+    "stripe": "^16.8.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
